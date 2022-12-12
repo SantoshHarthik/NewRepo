@@ -4,11 +4,11 @@ import '../Misc/Styles/Homepagestyle.css'
 
 
 const steps = [
-  'Hello 👋', 3000,
-  'Yoga is a study of life. ', 3000,
-  'Yoga unites our hearts, mind, body.', 3000,
-  'Yoga takes you close to your true nature.', 3000,
-  'Yoga is a discipline that opens the door to inner freedom.', 3000,
+  'Hello 👋', 1000,
+  'Yoga is a study of life. ', 1000,
+  'Yoga unites our hearts, mind, body.', 1000,
+  'Yoga takes you close to your true nature.', 1000,
+  'Yoga is a discipline that opens the door to inner freedom.', 1000,
   'Join us now!!!', 3000,
 ];
 
