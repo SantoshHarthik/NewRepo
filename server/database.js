@@ -1,4 +1,5 @@
-const conn='mongodb+srv://Harthik:1234@cluster0.za9ck1n.mongodb.net/CTO?retryWrites=true&w=majority'
+require('dotenv').config()
+const conn=process.env.url
 
 const mongoose= require('mongoose')
 
